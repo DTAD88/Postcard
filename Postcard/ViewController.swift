@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var enterMessageTextField: UITextField!
     @IBOutlet weak var mailButton: UIButton!
     
+    //adding comment here to test commit
     
     override func viewDidLoad() {
         super.viewDidLoad()
